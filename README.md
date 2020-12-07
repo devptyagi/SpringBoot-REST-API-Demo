@@ -1,7 +1,7 @@
 # SpringBoot-REST-API-Demo
 
 * A simple REST API using Java Spring Boot with GET, POST, DELETE mappings.
-* H2 in memory SQL database
+* H2 in-memory SQL database using JPA - Hibernate
 
 
 <img src="1.png" height=300 width=700>
